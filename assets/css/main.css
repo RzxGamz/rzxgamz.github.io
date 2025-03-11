@@ -87,18 +87,6 @@ h6 {
   font-family: var(--heading-font);
 }
 
-/* Bottom Ads
-------------------------------*/
-.bottom-ad {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    background-color: #f0f0f0; /* Warna latar belakang iklan */
-    text-align: center;
-    padding: 10px 0;
-}
-
 /* PHP Email Form Messages
 ------------------------------*/
 .php-email-form .error-message {
